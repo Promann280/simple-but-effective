@@ -5,7 +5,7 @@ Simple But Effective is a Fabric modpack focused on improving Minecraft performa
 ## Features
 
 ### Performance
-The pack includes performance-focused mods designed to improve FPS, chunk loading, memory usage, and overall smoothness. It uses technologies and mods such as Sodium, Lithium, and C2ME to help make gameplay feel faster and more responsive.
+The pack includes performance-focused mods designed to improve FPS, chunk loading, memory usage, and overall smoothness. It uses mods such as Sodium, Lithium, and C2ME to help make gameplay feel faster and more responsive.
 
 ### Quality of Life
 The pack also includes quality-of-life features, including [Diorama](https://modrinth.com/mod/diorama-map), a simple minimap, and [e4mc](https://modrinth.com/mod/e4mc), which makes it easier to play with friends without setting up traditional port forwarding.
@@ -19,7 +19,10 @@ This is the first release of the modpack, so it currently targets one Minecraft 
 
 ## Included Mods
 
-The pack currently includes 63 mods:
+The pack currently includes 63 mods. Expand the list below to see them all.
+
+<details>
+<summary>View all 63 mods</summary>
 
 - Almanac
 - AppleSkin
@@ -84,6 +87,8 @@ The pack currently includes 63 mods:
 - YetAnotherConfigLib (YACL)
 - ZConfig
 - Zoomify
+
+</details>
 
 ## Included Resource Packs
 
